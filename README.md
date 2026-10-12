@@ -14,7 +14,7 @@ Six pages: overview, discharges and destinations, length of stay, regional varia
 
 | | |
 |---|---|
-| ![Page 1](Page_1.png) | ![Page 2](Page_2.png) |
+| ![Page 1](Page_1.PNG) | ![Page 2](Page_2.png) |
 | ![Page 3](Page_3.png) | ![Page 4](Page_4.png) |
 | ![Page 5](Page_5.png) | ![Page 6](Page_6.png) |
 
