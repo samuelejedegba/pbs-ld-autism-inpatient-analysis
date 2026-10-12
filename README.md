@@ -44,7 +44,6 @@ All data are published by NHS England / NHS Digital under the [Open Government L
 - **Mental Health Services Data Set (MHSDS)**: restrictive interventions. [Link](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets/mental-health-services-data-set)
 - Monthly downloads: [Learning disability services statistics](https://digital.nhs.uk/data-and-information/publications/statistical/learning-disability-services-statistics)
 
-The files in [`/data`](data) are my reshaped versions of the NHS tables, laid out for Power Query (one fact table per grain, with `Unit` and `Notes` columns). Each workbook has a README sheet describing the tables.
 
 | File | Contents |
 |---|---|
