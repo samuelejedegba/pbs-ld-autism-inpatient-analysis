@@ -18,7 +18,7 @@ Six pages: overview, discharges and destinations, length of stay, regional varia
 | ![Page 3](Page_3.PNG) | ![Page 4](Page_4.PNG) |
 | ![Page 5](Page_5.PNG) | ![Page 6](Page_6.PNG) |
 
-- Power BI file: [`dashboard/PBS_analysis.pbix`](dashboard/PBS_analysis.pbix)
+- Power BI file: [`dashboard/PBS_analysis.pbix`](PBS_analysis.pbix)
 - Live report: [Open in Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWNhNTEyMmQtODZkNC00MzM1LTljNmEtZmNmMDBhMmExOTE2IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 
 ## Headline findings
